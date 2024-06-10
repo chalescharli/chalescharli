@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![MasterHead](https://media.istockphoto.com/id/1473149698/photo/business-finance-data-analytics-graph-advisor-using-kpi-dashboard-on-virtual-screen-financial.jpg?s=1024x1024&w=is&k=20&c=5S-E0wmpkVVHpXCmWie3NPWVtsR-feZ9XcSlkTQUUTo=)]
+![MasterHead](https://media.istockphoto.com/id/1473149698/photo/business-finance-data-analytics-graph-advisor-using-kpi-dashboard-on-virtual-screen-financial.jpg?s=1024x1024&w=is&k=20&c=5S-E0wmpkVVHpXCmWie3NPWVtsR-feZ9XcSlkTQUUTo=)
 <h1 align="center">Hi 👋, I'm chalescharli ·</h1>
 <h3 align="center">A passionate data science and data analysist developer from India</h3>
 <img align= "right" alt= "coding" width = "400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1718056809~exp=1718057409~hmac=001a3bf16a23b5832215af6ed80ce70785583dc01853106084d6b845ab34786b">
